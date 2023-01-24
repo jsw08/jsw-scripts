@@ -1,0 +1,1 @@
+javascript:fetch("https://raw.githubusercontent.com/jsw08/jsw-scripts/main/toolbox.min.js").then(v=>eval(v.text);void 0
