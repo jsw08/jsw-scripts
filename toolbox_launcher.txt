@@ -1,1 +1,1 @@
-javascript:fetch("https://raw.githubusercontent.com/jsw08/jsw-scripts/main/toolbox.min.js").then(v=>eval(v.text);void 0
+javascript:fetch("https://raw.githubusercontent.com/jsw08/jsw-scripts/main/toolbox.min.js").then(r=>r.text()).then(v=>eval(v));void 0
