@@ -1,1 +1,1 @@
-javascript:fetch("https://raw.githubusercontent.com/jsw08/jsw-scripts/main/toolbox.min.js").then(r=>r.text()).then(v=>eval(v));void 0
+javascript:fetch("https://raw.githubusercontent.com/jsw08/jsw-scripts/main/toolbox.min.js").then(r=>r.text()).then(v=>eval(v)).catch(v=>alert("Toolbox isn't supported on this page."));void 0
